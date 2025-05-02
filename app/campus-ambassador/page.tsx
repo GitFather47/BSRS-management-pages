@@ -283,9 +283,6 @@ export default function CampusAmbassadorPage() {
                                 <Input placeholder="Your Instagram profile URL" {...field} />
                               </FormControl>
                               <FormMessage />
-                            </Form  />
-                              </FormControl>
-                              <FormMessage />
                             </FormItem>
                           )}
                         />
