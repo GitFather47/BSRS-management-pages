@@ -1,10 +1,10 @@
 
-````markdown
-# Next.js Project
+markdown
+### Next.js Project
 
 This is a Next.js project bootstrapped with [create-next-app](https://nextjs.org/docs/api-reference/create-next-app).
 
-## Getting Started
+### Getting Started
 
 First, run the development server:
 
@@ -53,8 +53,3 @@ To learn more about Next.js, take a look at the following resources:
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-```
-
-This `README.md` provides all the necessary information for getting started with your Next.js project and additional resources for learning more or deploying the app.
-```
