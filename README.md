@@ -1,5 +1,3 @@
-
-markdown
 ### Next.js Project
 
 This is a Next.js project bootstrapped with [create-next-app](https://nextjs.org/docs/api-reference/create-next-app).
